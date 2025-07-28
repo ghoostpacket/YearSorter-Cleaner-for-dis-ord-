@@ -1,10 +1,3 @@
-http://dixzugsr:ovlxw1sxr2t5@23.95.150.145:6114
-http://dixzugsr:ovlxw1sxr2t5@198.23.239.134:6540
-http://dixzugsr:ovlxw1sxr2t5@45.38.107.97:6014
-http://dixzugsr:ovlxw1sxr2t5@207.244.217.165:6712
-http://dixzugsr:ovlxw1sxr2t5@107.172.163.27:6543
-http://dixzugsr:ovlxw1sxr2t5@104.222.161.211:6343
-http://dixzugsr:ovlxw1sxr2t5@64.137.96.74:6641
-http://dixzugsr:ovlxw1sxr2t5@216.10.27.159:6837
-http://dixzugsr:ovlxw1sxr2t5@136.0.207.84:6661
-http://dixzugsr:ovlxw1sxr2t5@142.147.128.93:6593
+you should respect this forma : http://user:password@IP:port
+webshare can give you 10 free a week 
+
