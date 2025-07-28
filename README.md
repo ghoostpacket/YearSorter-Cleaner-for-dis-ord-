@@ -27,22 +27,14 @@
 
 ---
 
-## 📁 File Structure
-
-project/
-├── tokens.txt # Your token list in EMAIL:PASSWORD:dis€ord password:TOKEN format easy to adapt to your format
-├── proxies.txt # (Optional) HTTP proxies list
-├── output/ # Sorted token files by year
-├── sorter.py # Token sorting script
-├── cleaner.py # Token cleaning script
-
-
 ## ⚙️ Installation
 
-```bash
+```
 pip install tls-client websocket-client colorama
+```
 🚀 Usage
-
+▶️ Token Sorter
+bash
 Tokens will be organized into output/YYYY.txt files
 
 ▶️ Account Cleaner
